@@ -1,0 +1,1028 @@
+Python 2.7.10 (default, Oct 14 2015, 16:09:02) 
+[GCC 5.2.1 20151010] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+1
+2
+3
+4
+5
+6
+Loading...
+/home/deeplearn/Desktop/carT/data.dt
+
+[[ 1.  0.  0. ...,  0.  0.  0.]
+ [ 0.  1.  0. ...,  0.  0.  0.]
+ [ 0.  0.  1. ...,  0.  0.  0.]
+ ..., 
+ [ 0.  0.  0. ...,  1.  0.  0.]
+ [ 0.  0.  0. ...,  0.  1.  0.]
+ [ 0.  0.  0. ...,  0.  0.  1.]]
+loading ok... start training
+begin training..., train dataset size:1521
+epoch 0 done! validation loss:877.729797363
+traing ...1
+traing ...2
+traing ...3
+traing ...4
+traing ...5
+traing ...6
+traing ...7
+traing ...8
+traing ...9
+traing ...10
+traing ...11
+traing ...12
+traing ...13
+traing ...14
+traing ...15
+traing ...16
+traing ...17
+traing ...18
+traing ...19
+traing ...20
+traing ...21
+traing ...22
+traing ...23
+traing ...24
+traing ...25
+traing ...26
+traing ...27
+traing ...28
+traing ...29
+traing ...30
+traing ...31
+traing ...32
+traing ...33
+traing ...34
+traing ...35
+traing ...36
+traing ...37
+traing ...38
+traing ...39
+traing ...40
+traing ...41
+traing ...42
+traing ...43
+traing ...44
+traing ...45
+traing ...46
+traing ...47
+traing ...48
+traing ...49
+traing ...50
+traing ...51
+traing ...52
+traing ...53
+traing ...54
+traing ...55
+traing ...56
+traing ...57
+traing ...58
+traing ...59
+traing ...60
+traing ...61
+traing ...62
+traing ...63
+traing ...64
+traing ...65
+traing ...66
+traing ...67
+traing ...68
+traing ...69
+traing ...70
+traing ...71
+traing ...72
+traing ...73
+traing ...74
+traing ...75
+traing ...76
+traing ...77
+traing ...78
+traing ...79
+traing ...80
+traing ...81
+traing ...82
+traing ...83
+traing ...84
+traing ...85
+traing ...86
+traing ...87
+traing ...88
+traing ...89
+traing ...90
+traing ...91
+traing ...92
+traing ...93
+traing ...94
+traing ...95
+traing ...96
+traing ...97
+traing ...98
+traing ...99
+epoch 100 done! validation loss:287.028932571
+traing ...101
+traing ...102
+traing ...103
+traing ...104
+traing ...105
+traing ...106
+traing ...107
+traing ...108
+traing ...109
+traing ...110
+traing ...111
+traing ...112
+traing ...113
+traing ...114
+traing ...115
+traing ...116
+traing ...117
+traing ...118
+traing ...119
+traing ...120
+traing ...121
+traing ...122
+traing ...123
+traing ...124
+traing ...125
+traing ...126
+traing ...127
+traing ...128
+traing ...129
+traing ...130
+traing ...131
+traing ...132
+traing ...133
+traing ...134
+traing ...135
+traing ...136
+traing ...137
+traing ...138
+traing ...139
+traing ...140
+traing ...141
+traing ...142
+traing ...143
+traing ...144
+traing ...145
+traing ...146
+traing ...147
+traing ...148
+traing ...149
+traing ...150
+traing ...151
+traing ...152
+traing ...153
+traing ...154
+traing ...155
+traing ...156
+traing ...157
+traing ...158
+traing ...159
+traing ...160
+traing ...161
+traing ...162
+traing ...163
+traing ...164
+traing ...165
+traing ...166
+traing ...167
+traing ...168
+traing ...169
+traing ...170
+traing ...171
+traing ...172
+traing ...173
+traing ...174
+traing ...175
+traing ...176
+traing ...177
+traing ...178
+traing ...179
+traing ...180
+traing ...181
+traing ...182
+traing ...183
+traing ...184
+traing ...185
+traing ...186
+traing ...187
+traing ...188
+traing ...189
+traing ...190
+traing ...191
+traing ...192
+traing ...193
+traing ...194
+traing ...195
+traing ...196
+traing ...197
+traing ...198
+traing ...199
+epoch 200 done! validation loss:17.9399937391
+traing ...201
+traing ...202
+traing ...203
+traing ...204
+traing ...205
+traing ...206
+traing ...207
+traing ...208
+traing ...209
+traing ...210
+traing ...211
+traing ...212
+traing ...213
+traing ...214
+traing ...215
+traing ...216
+traing ...217
+traing ...218
+traing ...219
+traing ...220
+traing ...221
+traing ...222
+traing ...223
+traing ...224
+traing ...225
+traing ...226
+traing ...227
+traing ...228
+traing ...229
+traing ...230
+traing ...231
+traing ...232
+traing ...233
+traing ...234
+traing ...235
+traing ...236
+traing ...237
+traing ...238
+traing ...239
+traing ...240
+traing ...241
+traing ...242
+traing ...243
+traing ...244
+traing ...245
+traing ...246
+traing ...247
+traing ...248
+traing ...249
+traing ...250
+traing ...251
+traing ...252
+traing ...253
+traing ...254
+traing ...255
+traing ...256
+traing ...257
+traing ...258
+traing ...259
+traing ...260
+traing ...261
+traing ...262
+traing ...263
+traing ...264
+traing ...265
+traing ...266
+traing ...267
+traing ...268
+traing ...269
+traing ...270
+traing ...271
+traing ...272
+traing ...273
+traing ...274
+traing ...275
+traing ...276
+traing ...277
+traing ...278
+traing ...279
+traing ...280
+traing ...281
+traing ...282
+traing ...283
+traing ...284
+traing ...285
+traing ...286
+traing ...287
+traing ...288
+traing ...289
+traing ...290
+traing ...291
+traing ...292
+traing ...293
+traing ...294
+traing ...295
+traing ...296
+traing ...297
+traing ...298
+traing ...299
+epoch 300 done! validation loss:6.03399053216
+traing ...301
+traing ...302
+traing ...303
+traing ...304
+traing ...305
+traing ...306
+traing ...307
+traing ...308
+traing ...309
+traing ...310
+traing ...311
+traing ...312
+traing ...313
+traing ...314
+traing ...315
+traing ...316
+traing ...317
+traing ...318
+traing ...319
+traing ...320
+traing ...321
+traing ...322
+traing ...323
+traing ...324
+traing ...325
+traing ...326
+traing ...327
+traing ...328
+traing ...329
+traing ...330
+traing ...331
+traing ...332
+traing ...333
+traing ...334
+traing ...335
+traing ...336
+traing ...337
+traing ...338
+traing ...339
+traing ...340
+traing ...341
+traing ...342
+traing ...343
+traing ...344
+traing ...345
+traing ...346
+traing ...347
+traing ...348
+traing ...349
+traing ...350
+traing ...351
+traing ...352
+traing ...353
+traing ...354
+traing ...355
+traing ...356
+traing ...357
+traing ...358
+traing ...359
+traing ...360
+traing ...361
+traing ...362
+traing ...363
+traing ...364
+traing ...365
+traing ...366
+traing ...367
+traing ...368
+traing ...369
+traing ...370
+traing ...371
+traing ...372
+traing ...373
+traing ...374
+traing ...375
+traing ...376
+traing ...377
+traing ...378
+traing ...379
+traing ...380
+traing ...381
+traing ...382
+traing ...383
+traing ...384
+traing ...385
+traing ...386
+traing ...387
+traing ...388
+traing ...389
+traing ...390
+traing ...391
+traing ...392
+traing ...393
+traing ...394
+traing ...395
+traing ...396
+traing ...397
+traing ...398
+traing ...399
+(164, 164)
+GMC
+>>> out = readImage2Array("/home/deeplearn/Desktop/carT/1.bmp")              
+    y_batch = y_conv.eval(feed_dict={x:out, keep_prob:1.0})
+    carConfig=readCarConfig("/home/deeplearn/Desktop/carT/result.txt")
+    car = carConfig[y_batch[0].argmax()]
+    print car
+    
+(164, 164)
+>>> 
+>>> out = readImage2Array("/home/deeplearn/Desktop/carT/2.bmp")              
+    y_batch = y_conv.eval(feed_dict={x:out, keep_prob:1.0})
+    carConfig=readCarConfig("/home/deeplearn/Desktop/carT/result.txt")
+    car = carConfig[y_batch[0].argmax()]
+    print car
+    
+(164, 164)
+>>> 
+>>> out = readImage2Array("/home/deeplearn/Desktop/carT/0.bmp")              
+    y_batch = y_conv.eval(feed_dict={x:out, keep_prob:1.0})
+    carConfig=readCarConfig("/home/deeplearn/Desktop/carT/result.txt")
+    car = carConfig[y_batch[0].argmax()]
+    print car
+    
+(164, 164)
+>>> for i in xrange(66):
+	out = readImage2Array("/home/deeplearn/Desktop/carT/"+str(i)+"0.bmp")
+	y_batch = y_conv.eval(feed_dict={x:out, keep_prob:1.0})
+	carConfig=readCarConfig("/home/deeplearn/Desktop/carT/result.txt")
+	car = carConfig[y_batch[0].argmax()]
+	print car
+
+	
+
+Traceback (most recent call last):
+  File "<pyshell#11>", line 2, in <module>
+    out = readImage2Array("/home/deeplearn/Desktop/carT/"+str(i)+"0.bmp")
+  File "/home/deeplearn/Desktop/qin/train_car.py", line 119, in readImage2Array
+    im = Image.open(path)
+  File "/usr/lib/python2.7/dist-packages/PIL/Image.py", line 2288, in open
+    fp = builtins.open(fp, "rb")
+IOError: [Errno 2] No such file or directory: '/home/deeplearn/Desktop/carT/00.bmp'
+>>> for i in xrange(66):
+	out = readImage2Array("/home/deeplearn/Desktop/carT/"+str(i)+".bmp")
+	y_batch = y_conv.eval(feed_dict={x:out, keep_prob:1.0})
+	carConfig=readCarConfig("/home/deeplearn/Desktop/carT/result.txt")
+	car = carConfig[y_batch[0].argmax()]
+	print car
+
+	
+(164, 164)
+GMC
+(164, 164)
+MiniCooper
+(164, 164)
+Smart
+(164, 164)
+一汽
+(164, 164)
+三菱
+(164, 164)
+东风风神
+(164, 164)
+丰田
+(164, 164)
+依维柯
+(164, 164)
+保时捷
+(164, 164)
+光冈
+(164, 164)
+克莱斯勒
+(164, 164)
+兰博基尼
+(164, 164)
+凯迪拉克
+(164, 164)
+别克
+(164, 164)
+力帆
+(164, 164)
+劳伦士
+(164, 164)
+劳斯莱斯
+(164, 164)
+北汽
+(164, 164)
+厦门金龙
+(164, 164)
+双龙
+(164, 164)
+吉普
+(164, 164)
+名爵
+(164, 164)
+哈飞
+(164, 164)
+大众
+(164, 164)
+奇瑞
+(164, 164)
+奔驰
+(164, 164)
+奥迪
+(164, 164)
+宝马
+(164, 164)
+宾利
+(164, 164)
+尼桑
+(164, 164)
+布加迪
+(164, 164)
+帕加尼
+(164, 164)
+悍马
+(164, 164)
+捷豹
+(164, 164)
+斯巴鲁
+(164, 164)
+本田
+(164, 164)
+林肯
+(164, 164)
+标致
+(164, 164)
+欧宝
+(164, 164)
+比亚迪
+(164, 164)
+法拉利
+(164, 164)
+海马
+(164, 164)
+玛莎拉蒂
+(164, 164)
+现代
+(164, 164)
+福特
+(164, 164)
+罗森
+(164, 164)
+英伦
+(164, 164)
+英菲尼迪
+(164, 164)
+荣威
+(164, 164)
+菲亚特
+(164, 164)
+讴歌
+(164, 164)
+起亚
+(164, 164)
+路特斯
+(164, 164)
+路虎
+(164, 164)
+迈巴赫
+(164, 164)
+道奇
+(164, 164)
+铃木
+(164, 164)
+长城
+(164, 164)
+长安
+(164, 164)
+阿尔发罗密欧
+(164, 164)
+阿斯顿马丁
+(164, 164)
+雪佛兰
+(164, 164)
+雪铁龙
+(164, 164)
+雷克萨斯
+(164, 164)
+雷诺
+(164, 164)
+马自达
+>>> ================================ RESTART ================================
+>>> 
+1
+2
+3
+4
+5
+6
+Loading...
+/home/deeplearn/Desktop/carT/data.dt
+
+[[ 1.  0.  0. ...,  0.  0.  0.]
+ [ 0.  1.  0. ...,  0.  0.  0.]
+ [ 0.  0.  1. ...,  0.  0.  0.]
+ ..., 
+ [ 0.  0.  0. ...,  1.  0.  0.]
+ [ 0.  0.  0. ...,  0.  1.  0.]
+ [ 0.  0.  0. ...,  0.  0.  1.]]
+loading ok... start training
+begin training..., train dataset size:1521
+traing ...0
+epoch 1 done! validation loss:611.544799805
+epoch 2 done! validation loss:602.684593201
+epoch 3 done! validation loss:652.642917633
+epoch 4 done! validation loss:541.097021103
+epoch 5 done! validation loss:527.487564087
+epoch 6 done! validation loss:491.205453873
+epoch 7 done! validation loss:483.320474625
+epoch 8 done! validation loss:459.333848953
+epoch 9 done! validation loss:451.307106018
+epoch 10 done! validation loss:451.326370239
+epoch 11 done! validation loss:451.108217239
+epoch 12 done! validation loss:453.125190735
+epoch 13 done! validation loss:451.414299011
+epoch 14 done! validation loss:447.237157822
+epoch 15 done! validation loss:445.320558548
+epoch 16 done! validation loss:445.063209534
+epoch 17 done! validation loss:445.064115524
+epoch 18 done! validation loss:443.509578705
+epoch 19 done! validation loss:440.58842659
+epoch 20 done! validation loss:438.766431808
+epoch 21 done! validation loss:429.570484161
+epoch 22 done! validation loss:427.385616302
+epoch 23 done! validation loss:428.735399246
+epoch 24 done! validation loss:433.931255341
+epoch 25 done! validation loss:433.531284332
+epoch 26 done! validation loss:431.248855591
+epoch 27 done! validation loss:435.56637764
+epoch 28 done! validation loss:437.601804733
+epoch 29 done! validation loss:437.422943115
+epoch 30 done! validation loss:436.644554138
+epoch 31 done! validation loss:436.86466217
+epoch 32 done! validation loss:436.166906357
+epoch 33 done! validation loss:432.894134521
+epoch 34 done! validation loss:436.443185806
+epoch 35 done! validation loss:436.636972427
+epoch 36 done! validation loss:435.530519485
+epoch 37 done! validation loss:433.976459503
+epoch 38 done! validation loss:431.560707092
+epoch 39 done! validation loss:434.55862999
+epoch 40 done! validation loss:429.725408554
+epoch 41 done! validation loss:431.160879135
+epoch 42 done! validation loss:431.50935173
+epoch 43 done! validation loss:429.447317123
+epoch 44 done! validation loss:432.505321503
+epoch 45 done! validation loss:430.125808716
+epoch 46 done! validation loss:429.877901077
+epoch 47 done! validation loss:432.033443451
+epoch 48 done! validation loss:431.15530014
+epoch 49 done! validation loss:425.951814651
+epoch 50 done! validation loss:428.877449036
+epoch 51 done! validation loss:426.483678818
+epoch 52 done! validation loss:423.711109161
+epoch 53 done! validation loss:420.560836792
+epoch 54 done! validation loss:424.858093262
+epoch 55 done! validation loss:424.530029297
+epoch 56 done! validation loss:423.440647125
+epoch 57 done! validation loss:423.451328278
+epoch 58 done! validation loss:426.112604141
+epoch 59 done! validation loss:430.127286911
+epoch 60 done! validation loss:425.674200058
+epoch 61 done! validation loss:424.843740463
+epoch 62 done! validation loss:425.242710114
+epoch 63 done! validation loss:424.180555344
+epoch 64 done! validation loss:423.921537399
+epoch 65 done! validation loss:423.161172867
+epoch 66 done! validation loss:422.556447983
+epoch 67 done! validation loss:424.046516418
+epoch 68 done! validation loss:426.563024521
+epoch 69 done! validation loss:430.038499832
+epoch 70 done! validation loss:430.023193359
+epoch 71 done! validation loss:427.187538147
+epoch 72 done! validation loss:425.650882721
+epoch 73 done! validation loss:424.139976501
+epoch 74 done! validation loss:424.251556396
+epoch 75 done! validation loss:421.199941635
+epoch 76 done! validation loss:419.961690903
+epoch 77 done! validation loss:418.940496445
+epoch 78 done! validation loss:417.851829529
+epoch 79 done! validation loss:417.233705521
+epoch 80 done! validation loss:418.02406311
+epoch 81 done! validation loss:416.627693176
+epoch 82 done! validation loss:419.197225571
+epoch 83 done! validation loss:420.576620102
+epoch 84 done! validation loss:422.879552841
+epoch 85 done! validation loss:423.843812943
+epoch 86 done! validation loss:426.230430603
+epoch 87 done! validation loss:423.93283844
+epoch 88 done! validation loss:423.244333267
+epoch 89 done! validation loss:423.106002808
+epoch 90 done! validation loss:423.191642761
+epoch 91 done! validation loss:421.822547913
+epoch 92 done! validation loss:423.616075516
+epoch 93 done! validation loss:420.960283279
+epoch 94 done! validation loss:418.122196198
+epoch 95 done! validation loss:418.678951263
+epoch 96 done! validation loss:416.068267822
+epoch 97 done! validation loss:417.099285126
+epoch 98 done! validation loss:416.842412949
+epoch 99 done! validation loss:417.01669693
+epoch 100 done! validation loss:418.212127686
+epoch 101 done! validation loss:418.746471405
+epoch 102 done! validation loss:418.195009232
+epoch 103 done! validation loss:416.97769165
+epoch 104 done! validation loss:418.49770546
+epoch 105 done! validation loss:414.919805527
+epoch 106 done! validation loss:414.639902115
+epoch 107 done! validation loss:412.502479553
+epoch 108 done! validation loss:415.164041519
+epoch 109 done! validation loss:413.555335999
+epoch 110 done! validation loss:412.607192993
+epoch 111 done! validation loss:411.177015305
+epoch 112 done! validation loss:410.086488724
+epoch 113 done! validation loss:407.65748024
+epoch 114 done! validation loss:410.108375549
+epoch 115 done! validation loss:408.350324631
+epoch 116 done! validation loss:408.651399612
+epoch 117 done! validation loss:407.777738571
+epoch 118 done! validation loss:405.924510956
+epoch 119 done! validation loss:406.776762009
+epoch 120 done! validation loss:406.404352188
+epoch 121 done! validation loss:403.017425537
+epoch 122 done! validation loss:402.043199539
+epoch 123 done! validation loss:400.1704216
+epoch 124 done! validation loss:401.389980316
+epoch 125 done! validation loss:398.941040039
+epoch 126 done! validation loss:397.110819817
+epoch 127 done! validation loss:395.155000687
+epoch 128 done! validation loss:395.399808884
+epoch 129 done! validation loss:392.423915863
+epoch 130 done! validation loss:391.897034645
+epoch 131 done! validation loss:387.630701065
+epoch 132 done! validation loss:386.663675308
+epoch 133 done! validation loss:383.438372612
+epoch 134 done! validation loss:384.367036819
+epoch 135 done! validation loss:383.461499214
+epoch 136 done! validation loss:380.071949959
+epoch 137 done! validation loss:375.534510612
+epoch 138 done! validation loss:369.651436806
+epoch 139 done! validation loss:364.197826385
+epoch 140 done! validation loss:365.461277962
+epoch 141 done! validation loss:358.513474464
+epoch 142 done! validation loss:360.742330551
+epoch 143 done! validation loss:351.689863205
+epoch 144 done! validation loss:346.960926056
+epoch 145 done! validation loss:345.309329033
+epoch 146 done! validation loss:345.357084274
+epoch 147 done! validation loss:332.42855072
+epoch 148 done! validation loss:332.711482048
+epoch 149 done! validation loss:328.059601784
+epoch 150 done! validation loss:330.051708221
+epoch 151 done! validation loss:321.132969856
+epoch 152 done! validation loss:326.063728333
+epoch 153 done! validation loss:323.190450668
+epoch 154 done! validation loss:325.198864937
+epoch 155 done! validation loss:319.191932678
+epoch 156 done! validation loss:312.219309807
+epoch 157 done! validation loss:302.390384674
+epoch 158 done! validation loss:290.101051331
+epoch 159 done! validation loss:289.510726929
+epoch 160 done! validation loss:283.420968056
+epoch 161 done! validation loss:271.499490738
+epoch 162 done! validation loss:272.111678123
+epoch 163 done! validation loss:267.908740044
+epoch 164 done! validation loss:258.887434006
+epoch 165 done! validation loss:252.563381195
+epoch 166 done! validation loss:245.059943199
+epoch 167 done! validation loss:240.30559063
+epoch 168 done! validation loss:243.0362463
+epoch 169 done! validation loss:244.425797462
+epoch 170 done! validation loss:243.665742874
+epoch 171 done! validation loss:254.873585701
+epoch 172 done! validation loss:251.179122925
+epoch 173 done! validation loss:251.295232773
+epoch 174 done! validation loss:226.980376244
+epoch 175 done! validation loss:219.10879612
+epoch 176 done! validation loss:229.539251328
+epoch 177 done! validation loss:235.595440865
+epoch 178 done! validation loss:218.265724182
+epoch 179 done! validation loss:208.12728405
+epoch 180 done! validation loss:204.529309273
+epoch 181 done! validation loss:212.796998024
+epoch 182 done! validation loss:223.881912231
+epoch 183 done! validation loss:209.213399887
+epoch 184 done! validation loss:200.857138634
+epoch 185 done! validation loss:200.374221802
+epoch 186 done! validation loss:198.162615299
+epoch 187 done! validation loss:176.905357838
+epoch 188 done! validation loss:160.474824905
+epoch 189 done! validation loss:144.238734245
+epoch 190 done! validation loss:144.971001148
+epoch 191 done! validation loss:136.586976051
+epoch 192 done! validation loss:129.192173481
+epoch 193 done! validation loss:120.472919941
+epoch 194 done! validation loss:123.22909832
+epoch 195 done! validation loss:117.148423195
+epoch 196 done! validation loss:114.59261179
+epoch 197 done! validation loss:110.159921646
+epoch 198 done! validation loss:104.542553425
+epoch 199 done! validation loss:103.772449493
+epoch 200 done! validation loss:102.892279625
+epoch 201 done! validation loss:99.8229980469
+epoch 202 done! validation loss:89.1085982323
+epoch 203 done! validation loss:89.255464077
+epoch 204 done! validation loss:74.4619190693
+epoch 205 done! validation loss:79.5509815216
+epoch 206 done! validation loss:69.2817747593
+epoch 207 done! validation loss:62.2404634953
+epoch 208 done! validation loss:50.2853155136
+epoch 209 done! validation loss:51.1167645454
+epoch 210 done! validation loss:66.5624499321
+epoch 211 done! validation loss:53.2731950283
+epoch 212 done! validation loss:41.9679284096
+epoch 213 done! validation loss:45.5092847347
+epoch 214 done! validation loss:37.3807430267
+epoch 215 done! validation loss:52.2069692612
+epoch 216 done! validation loss:45.9880441427
+epoch 217 done! validation loss:41.5618956089
+epoch 218 done! validation loss:38.6889904737
+epoch 219 done! validation loss:47.6477265358
+epoch 220 done! validation loss:55.3229987621
+epoch 221 done! validation loss:34.5693230629
+epoch 222 done! validation loss:51.5105009079
+epoch 223 done! validation loss:47.3750323057
+epoch 224 done! validation loss:58.3079993725
+epoch 225 done! validation loss:53.729403019
+epoch 226 done! validation loss:49.5078861713
+epoch 227 done! validation loss:46.9136238098
+epoch 228 done! validation loss:82.0105969906
+epoch 229 done! validation loss:60.4773879051
+epoch 230 done! validation loss:56.7447543144
+epoch 231 done! validation loss:42.3787504435
+epoch 232 done! validation loss:36.240491271
+epoch 233 done! validation loss:38.8517856598
+epoch 234 done! validation loss:33.0859571695
+epoch 235 done! validation loss:32.5451463461
+epoch 236 done! validation loss:24.3514314294
+epoch 237 done! validation loss:25.0463813543
+epoch 238 done! validation loss:20.855166018
+epoch 239 done! validation loss:18.8997447491
+epoch 240 done! validation loss:21.0702672601
+epoch 241 done! validation loss:17.5532832742
+epoch 242 done! validation loss:19.6402147412
+epoch 243 done! validation loss:30.4426193237
+epoch 244 done! validation loss:28.3951461315
+epoch 245 done! validation loss:22.1228554845
+epoch 246 done! validation loss:22.7735206485
+epoch 247 done! validation loss:14.3105149269
+epoch 248 done! validation loss:16.9326812029
+epoch 249 done! validation loss:22.1330463886
+epoch 250 done! validation loss:19.2621022463
+epoch 251 done! validation loss:20.3922569752
+epoch 252 done! validation loss:18.3619961143
+epoch 253 done! validation loss:15.1863545179
+epoch 254 done! validation loss:16.1608934402
+epoch 255 done! validation loss:22.4219053984
+epoch 256 done! validation loss:19.4169119
+epoch 257 done! validation loss:19.682739675
+epoch 258 done! validation loss:17.0249611139
+epoch 259 done! validation loss:34.6891194582
+epoch 260 done! validation loss:23.4930679202
+epoch 261 done! validation loss:17.062318325
+epoch 262 done! validation loss:11.4557147026
+epoch 263 done! validation loss:6.66376724839
+epoch 264 done! validation loss:13.683784008
+epoch 265 done! validation loss:17.0529097319
+epoch 266 done! validation loss:21.353417635
+epoch 267 done! validation loss:34.133759141
+epoch 268 done! validation loss:32.9834878445
+epoch 269 done! validation loss:29.7986924648
+epoch 270 done! validation loss:24.6016442776
+epoch 271 done! validation loss:24.1126775742
+epoch 272 done! validation loss:18.5352414846
+epoch 273 done! validation loss:13.9857813716
+epoch 274 done! validation loss:13.0423784256
+epoch 275 done! validation loss:9.71901193261
+epoch 276 done! validation loss:7.70948976278
+epoch 277 done! validation loss:13.1375491619
+epoch 278 done! validation loss:11.7964580655
+epoch 279 done! validation loss:12.0507717133
+epoch 280 done! validation loss:14.5185217261
+epoch 281 done! validation loss:14.6327659488
+epoch 282 done! validation loss:16.0479590297
+epoch 283 done! validation loss:18.3181002736
+epoch 284 done! validation loss:18.5044914484
+epoch 285 done! validation loss:22.3271742463
+epoch 286 done! validation loss:14.6946400404
+epoch 287 done! validation loss:17.6833197474
+epoch 288 done! validation loss:13.5277226567
+epoch 289 done! validation loss:11.8080846965
+epoch 290 done! validation loss:11.6489969194
+epoch 291 done! validation loss:11.0579609871
+epoch 292 done! validation loss:16.6047602892
+epoch 293 done! validation loss:12.4302126467
+epoch 294 done! validation loss:16.9496819377
+epoch 295 done! validation loss:20.6901669502
+epoch 296 done! validation loss:20.4836145043
+epoch 297 done! validation loss:11.9034968317
+epoch 298 done! validation loss:13.3573651314
+epoch 299 done! validation loss:7.80145451427
+epoch 300 done! validation loss:6.53870180249
+epoch 301 done! validation loss:9.86578762531
+epoch 302 done! validation loss:6.84798061848
+epoch 303 done! validation loss:17.0175984502
+epoch 304 done! validation loss:10.2757543325
+epoch 305 done! validation loss:12.8660693765
+epoch 306 done! validation loss:11.574190855
+epoch 307 done! validation loss:3.60606499016
+epoch 308 done! validation loss:4.48866263032
+epoch 309 done! validation loss:2.566312626
+epoch 310 done! validation loss:2.68344525248
+epoch 311 done! validation loss:3.67295369506
+epoch 312 done! validation loss:2.82004382461
+epoch 313 done! validation loss:2.31795087457
+epoch 314 done! validation loss:4.33070138097
+epoch 315 done! validation loss:3.36258634925
+epoch 316 done! validation loss:4.17635664344
+epoch 317 done! validation loss:2.25907769054
+epoch 318 done! validation loss:3.70933488011
+epoch 319 done! validation loss:1.50292720646
+epoch 320 done! validation loss:4.61438558996
+epoch 321 done! validation loss:2.19460409135
+epoch 322 done! validation loss:4.9288854003
+epoch 323 done! validation loss:3.51757481694
+epoch 324 done! validation loss:4.31534275413
+epoch 325 done! validation loss:3.10846418142
+epoch 326 done! validation loss:5.85347302258
+epoch 327 done! validation loss:8.79773870111
+epoch 328 done! validation loss:4.15813699365
+epoch 329 done! validation loss:4.3002448976
+epoch 330 done! validation loss:3.28759662807
+epoch 331 done! validation loss:2.44402494282
+epoch 332 done! validation loss:1.1743302457
+epoch 333 done! validation loss:0.481997570023
+epoch 334 done! validation loss:1.51199279353
+epoch 335 done! validation loss:0.529921241105
+epoch 336 done! validation loss:1.6851419583
+epoch 337 done! validation loss:1.51473721489
+epoch 338 done! validation loss:1.03683052585
+epoch 339 done! validation loss:3.23695391417
+epoch 340 done! validation loss:5.68103156984
+epoch 341 done! validation loss:0.501212570816
+epoch 342 done! validation loss:0.504609989002
+epoch 343 done! validation loss:0.146026571747
+epoch 344 done! validation loss:0.424385908991
+epoch 345 done! validation loss:0.199969811365
+epoch 346 done! validation loss:0.642368895933
+epoch 347 done! validation loss:0.548294046894
+epoch 348 done! validation loss:0.929231196642
+epoch 349 done! validation loss:2.28389482945
+epoch 350 done! validation loss:1.3136530295
+epoch 351 done! validation loss:1.31601765752
+epoch 352 done! validation loss:1.89624503255
+epoch 353 done! validation loss:2.29006726295
+epoch 354 done! validation loss:0.72509329766
+epoch 355 done! validation loss:1.66751351207
+epoch 356 done! validation loss:0.772613007575
+epoch 357 done! validation loss:0.542851863429
+epoch 358 done! validation loss:3.62835340202
+epoch 359 done! validation loss:1.36920865625
+epoch 360 done! validation loss:0.812881812453
+epoch 361 done! validation loss:0.293840561062
+epoch 362 done! validation loss:1.4985088259
+epoch 363 done! validation loss:0.997033435851
+epoch 364 done! validation loss:0.200320151635
+epoch 365 done! validation loss:0.211795070209
+epoch 366 done! validation loss:0.139548745938
+epoch 367 done! validation loss:0.207533524372
+epoch 368 done! validation loss:0.249859760515
+epoch 369 done! validation loss:0.194835592993
+epoch 370 done! validation loss:0.0682963582221
+epoch 371 done! validation loss:0.305587728508
+epoch 372 done! validation loss:0.153495080303
+epoch 373 done! validation loss:0.0702404475305
+epoch 374 done! validation loss:0.0545216782484
+epoch 375 done! validation loss:0.0774086627644
+epoch 376 done! validation loss:0.0434782152297
+epoch 377 done! validation loss:0.102721876465
+epoch 378 done! validation loss:0.0497637549415
+epoch 379 done! validation loss:0.0495369604323
+epoch 380 done! validation loss:0.0750470324419
+epoch 381 done! validation loss:0.0428373576142
+epoch 382 done! validation loss:3.78998741508
+epoch 383 done! validation loss:0.142376555596
+epoch 384 done! validation loss:0.0706834660377
+epoch 385 done! validation loss:0.138968136162
+epoch 386 done! validation loss:0.0975309230853
+epoch 387 done! validation loss:0.0751714280341
+epoch 388 done! validation loss:0.0537550484296
+epoch 389 done! validation loss:0.0402719742851
+epoch 390 done! validation loss:0.0478041562019
+epoch 391 done! validation loss:0.062897533644
+epoch 392 done! validation loss:0.0323509273585
+epoch 393 done! validation loss:0.0506670505274
+epoch 394 done! validation loss:0.0884009583388
+epoch 395 done! validation loss:0.0278434104985
+epoch 396 done! validation loss:0.0873342563864
+epoch 397 done! validation loss:0.0394776667235
+epoch 398 done! validation loss:0.0359087338438
+epoch 399 done! validation loss:0.0388778513297
+(164, 164)
+GMC
+>>> 
