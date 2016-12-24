@@ -92,11 +92,21 @@ if flag == "1":
     print("Weights2=\n",sess.run(Weights2))
     print("biases2=\n",sess.run(biases2))
     
-    save_path = saver.save(sess, "regression.ckpt")
-    print ("Model saved in file: ", save_path)
+    #save_path = saver.save(sess, "regression.ckpt")
+    #print ("Model saved in file: ", save_path)
+
+    saver.save(sess, 'my-model-10000.ckpt')
+  # Generates MetaGraphDef.
+    #saver.export_meta_graph('my-model-10000.meta')
+
+
 else:
-    saver.restore(sess, "/home/loony/work/tenserflow/example/regression/regression.ckpt")
-#prediction_value = sess.run(prediction, feed_dict={xs: x_data})
+    saver = tf.train.import_meta_graph('/home/ubuntu/jnb/tf/my-model-10000.ckpt.meta')
+    #saver.restore(sess, 'my-save-dir/my-model-10000')
+
+
+    saver.restore(sess, "/home/ubuntu/jnb/tf/my-model-10000.ckpt")
+    #prediction_value = sess.run(prediction, feed_dict={xs: x_data})
     try:
         ax.lines.remove(lines[0])
     except Exception:
